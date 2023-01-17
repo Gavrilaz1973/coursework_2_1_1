@@ -1,0 +1,197 @@
+2023-01-17 11:55:58,479 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-17 11:55:58,480 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-17 11:55:58,483 [INFO]  * Restarting with stat
+2023-01-17 11:55:58,897 [WARNING]  * Debugger is active!
+2023-01-17 11:55:58,899 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 11:56:21,157 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:21] "GET / HTTP/1.1" 200 -
+2023-01-17 11:56:21,824 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 11:56:21,842 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 11:56:21,867 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 11:56:33,209 [INFO] Запрос /api/posts/
+2023-01-17 11:56:33,211 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:33] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-17 11:56:39,343 [INFO] 127.0.0.1 - - [17/Jan/2023 11:56:39] "GET /api/posts/2 HTTP/1.1" 200 -
+2023-01-17 11:57:58,140 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-17 11:57:58,140 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-17 11:57:58,141 [INFO]  * Restarting with stat
+2023-01-17 11:57:58,601 [WARNING]  * Debugger is active!
+2023-01-17 11:57:58,604 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 11:58:10,229 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:10] "GET / HTTP/1.1" 200 -
+2023-01-17 11:58:10,926 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:10] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 11:58:10,936 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:10] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 11:58:10,947 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:10] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 11:58:22,072 [INFO] Запрос /api/posts/
+2023-01-17 11:58:22,073 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:22] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-17 11:58:28,916 [INFO] Запрос /api/posts/ 2
+2023-01-17 11:58:28,918 [INFO] 127.0.0.1 - - [17/Jan/2023 11:58:28] "GET /api/posts/2 HTTP/1.1" 200 -
+2023-01-17 12:11:11,118 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:11:11,172 [INFO]  * Restarting with stat
+2023-01-17 12:11:11,577 [WARNING]  * Debugger is active!
+2023-01-17 12:11:11,580 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:11:39,589 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:11:39,664 [INFO]  * Restarting with stat
+2023-01-17 12:11:40,217 [WARNING]  * Debugger is active!
+2023-01-17 12:11:40,221 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:12:05,991 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:12:06,047 [INFO]  * Restarting with stat
+2023-01-17 12:12:06,496 [WARNING]  * Debugger is active!
+2023-01-17 12:12:06,499 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:12:27,180 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:12:27,238 [INFO]  * Restarting with stat
+2023-01-17 12:12:27,958 [WARNING]  * Debugger is active!
+2023-01-17 12:12:27,960 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:12:35,223 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:12:35,275 [INFO]  * Restarting with stat
+2023-01-17 12:12:35,646 [WARNING]  * Debugger is active!
+2023-01-17 12:12:35,648 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:12:47,992 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:12:48,047 [INFO]  * Restarting with stat
+2023-01-17 12:12:48,443 [WARNING]  * Debugger is active!
+2023-01-17 12:12:48,445 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:13:01,093 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:13:01,147 [INFO]  * Restarting with stat
+2023-01-17 12:13:01,538 [WARNING]  * Debugger is active!
+2023-01-17 12:13:01,540 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:13:45,194 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:13:45,245 [INFO]  * Restarting with stat
+2023-01-17 12:13:45,652 [WARNING]  * Debugger is active!
+2023-01-17 12:13:45,654 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:15:54,528 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:15:54,597 [INFO]  * Restarting with stat
+2023-01-17 12:15:55,136 [WARNING]  * Debugger is active!
+2023-01-17 12:15:55,139 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:16:06,540 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:16:06,621 [INFO]  * Restarting with stat
+2023-01-17 12:16:07,109 [WARNING]  * Debugger is active!
+2023-01-17 12:16:07,112 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:16:34,205 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:16:34,263 [INFO]  * Restarting with stat
+2023-01-17 12:16:34,693 [WARNING]  * Debugger is active!
+2023-01-17 12:16:34,695 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:16:48,153 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:16:48,206 [INFO]  * Restarting with stat
+2023-01-17 12:16:48,545 [WARNING]  * Debugger is active!
+2023-01-17 12:16:48,547 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:18:34,685 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:18:34,738 [INFO]  * Restarting with stat
+2023-01-17 12:18:35,210 [WARNING]  * Debugger is active!
+2023-01-17 12:18:35,213 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:18:43,511 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:18:43,562 [INFO]  * Restarting with stat
+2023-01-17 12:18:43,911 [WARNING]  * Debugger is active!
+2023-01-17 12:18:43,913 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:18:57,373 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:18:57,443 [INFO]  * Restarting with stat
+2023-01-17 12:18:57,976 [WARNING]  * Debugger is active!
+2023-01-17 12:18:57,982 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:19:13,559 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:19:13,619 [INFO]  * Restarting with stat
+2023-01-17 12:19:14,086 [WARNING]  * Debugger is active!
+2023-01-17 12:19:14,089 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:19:23,400 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:19:23,452 [INFO]  * Restarting with stat
+2023-01-17 12:19:23,934 [WARNING]  * Debugger is active!
+2023-01-17 12:19:23,937 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:19:48,041 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:19:48,128 [INFO]  * Restarting with stat
+2023-01-17 12:19:48,791 [WARNING]  * Debugger is active!
+2023-01-17 12:19:48,795 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:20:07,361 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:20:07,412 [INFO]  * Restarting with stat
+2023-01-17 12:20:07,853 [WARNING]  * Debugger is active!
+2023-01-17 12:20:07,856 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:20:15,086 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:20:15,145 [INFO]  * Restarting with stat
+2023-01-17 12:20:15,863 [WARNING]  * Debugger is active!
+2023-01-17 12:20:15,866 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:20:26,240 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:20:26,301 [INFO]  * Restarting with stat
+2023-01-17 12:20:26,796 [WARNING]  * Debugger is active!
+2023-01-17 12:20:26,799 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:20:38,187 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:20:38,245 [INFO]  * Restarting with stat
+2023-01-17 12:20:38,790 [WARNING]  * Debugger is active!
+2023-01-17 12:20:38,793 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:21:00,515 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:21:00,586 [INFO]  * Restarting with stat
+2023-01-17 12:21:01,067 [WARNING]  * Debugger is active!
+2023-01-17 12:21:01,070 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:22:19,426 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:22:19,536 [INFO]  * Restarting with stat
+2023-01-17 12:22:20,049 [WARNING]  * Debugger is active!
+2023-01-17 12:22:20,052 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:24:59,497 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:24:59,604 [INFO]  * Restarting with stat
+2023-01-17 12:25:00,108 [WARNING]  * Debugger is active!
+2023-01-17 12:25:00,113 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:25:36,238 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:25:36,301 [INFO]  * Restarting with stat
+2023-01-17 12:25:36,869 [WARNING]  * Debugger is active!
+2023-01-17 12:25:36,872 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:25:57,492 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:25:57,547 [INFO]  * Restarting with stat
+2023-01-17 12:25:57,895 [WARNING]  * Debugger is active!
+2023-01-17 12:25:57,897 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:28:09,581 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:28:09,664 [INFO]  * Restarting with stat
+2023-01-17 12:28:10,122 [WARNING]  * Debugger is active!
+2023-01-17 12:28:10,124 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:31:57,624 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:31:57,701 [INFO]  * Restarting with stat
+2023-01-17 12:31:58,360 [WARNING]  * Debugger is active!
+2023-01-17 12:31:58,363 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:32:03,542 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:32:03,590 [INFO]  * Restarting with stat
+2023-01-17 12:32:03,985 [WARNING]  * Debugger is active!
+2023-01-17 12:32:03,987 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:33:16,029 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:33:16,109 [INFO]  * Restarting with stat
+2023-01-17 12:33:17,091 [WARNING]  * Debugger is active!
+2023-01-17 12:33:17,095 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:33:51,209 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:33:51,263 [INFO]  * Restarting with stat
+2023-01-17 12:33:51,711 [WARNING]  * Debugger is active!
+2023-01-17 12:33:51,714 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:34:25,929 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:34:26,040 [INFO]  * Restarting with stat
+2023-01-17 12:34:26,455 [WARNING]  * Debugger is active!
+2023-01-17 12:34:26,458 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:34:46,138 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-01-17 12:34:46,138 [INFO] [33mPress CTRL+C to quit[0m
+2023-01-17 12:34:46,140 [INFO]  * Restarting with stat
+2023-01-17 12:34:46,498 [WARNING]  * Debugger is active!
+2023-01-17 12:34:46,500 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:35:20,676 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:20] "GET / HTTP/1.1" 200 -
+2023-01-17 12:35:21,295 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:21] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:21,296 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:21] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:21,298 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:21] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 12:35:26,739 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:26] "GET /users/hank HTTP/1.1" 200 -
+2023-01-17 12:35:26,769 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:26] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 12:35:26,785 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:26] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:26,787 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:26] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:42,119 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:42] "GET /search?s=все HTTP/1.1" 200 -
+2023-01-17 12:35:42,151 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:42] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 12:35:42,163 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:42] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:42,165 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:42] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:51,701 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:51] "GET /users/leo HTTP/1.1" 200 -
+2023-01-17 12:35:51,731 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:51] "[36mGET /static/css/styles.min.css HTTP/1.1[0m" 304 -
+2023-01-17 12:35:51,748 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:51] "[36mGET /static/img/bookmark.png HTTP/1.1[0m" 304 -
+2023-01-17 12:35:51,750 [INFO] 127.0.0.1 - - [17/Jan/2023 12:35:51] "[36mGET /static/img/eye.png HTTP/1.1[0m" 304 -
+2023-01-17 12:36:23,083 [INFO] Запрос /api/posts/
+2023-01-17 12:36:23,085 [INFO] 127.0.0.1 - - [17/Jan/2023 12:36:23] "GET /api/posts/ HTTP/1.1" 200 -
+2023-01-17 12:36:30,316 [INFO] Запрос /api/posts/ 4
+2023-01-17 12:36:30,318 [INFO] 127.0.0.1 - - [17/Jan/2023 12:36:30] "GET /api/posts/4 HTTP/1.1" 200 -
+2023-01-17 12:40:58,763 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:40:58,799 [INFO]  * Restarting with stat
+2023-01-17 12:40:59,198 [WARNING]  * Debugger is active!
+2023-01-17 12:40:59,200 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:44:55,056 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:44:55,140 [INFO]  * Restarting with stat
+2023-01-17 12:44:55,733 [WARNING]  * Debugger is active!
+2023-01-17 12:44:55,735 [INFO]  * Debugger PIN: 269-464-323
+2023-01-17 12:46:51,130 [INFO]  * Detected change in 'C:\\Users\\Aser\\PycharmProjects\\-coursework_2\\tests\\api_test.py', reloading
+2023-01-17 12:46:51,161 [INFO]  * Restarting with stat
+2023-01-17 12:46:51,608 [WARNING]  * Debugger is active!
+2023-01-17 12:46:51,611 [INFO]  * Debugger PIN: 269-464-323
